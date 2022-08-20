@@ -1,0 +1,15 @@
+J:\Drive'ım\patika\CSharp\diziler\bin\Debug\net6.0\diziler.exe
+J:\Drive'ım\patika\CSharp\diziler\bin\Debug\net6.0\diziler.deps.json
+J:\Drive'ım\patika\CSharp\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+J:\Drive'ım\patika\CSharp\diziler\bin\Debug\net6.0\diziler.dll
+J:\Drive'ım\patika\CSharp\diziler\bin\Debug\net6.0\diziler.pdb
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.dll
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\refint\diziler.dll
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.pdb
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+J:\Drive'ım\patika\CSharp\diziler\obj\Debug\net6.0\ref\diziler.dll
